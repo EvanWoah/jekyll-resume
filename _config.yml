@@ -1,17 +1,17 @@
 # Site settings
-title: The résumé of Some Developer
+title: Evan Wall
 author:
   address:
-      street: 4 Your Street
-      town: Faketown
-      postcode: NG11 9BC
-      country: United Kingdom
-  email: anybody@gmail.com
-  name: Some Developer
-  title: CSS Ninja and html Rockstar
-  twitter_username: nternetinspired
-  github_username:  nternetinspired
-  phone: +44 000 000 0000
+      street: 1532 Randolph Avenue, Apt 10
+      town: Saint Paul, MN
+      zipcode: 55105
+      country: United States of America
+  email: evanw.mn@gmail.com
+  name: Evan Wall
+  title: Customer Service Black Belt // Computer Science Grasshopper 
+  twitter_username: evanwallsaintpaul
+  github_username:  evanwoah
+  phone: +1 651 353 0688
   repository: https://github.com/nternetinspired/jekyll-resume
   website: https://github.com/nternetinspired/jekyll-resume
 description: > # this means to ignore newlines until "baseurl:"
