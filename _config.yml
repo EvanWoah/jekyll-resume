@@ -1,25 +1,25 @@
 # Site settings
-title: Evan Wall
-author: Evan Wall
+title: The résumé of Some Developer
+author:
   address:
-      street: 1532 Randolph Avenue, Apt 10
-      town: Saint Paul, MN
-      zipcode: 55105
-      country: United States of America
-  email: evanw.mn@gmail.com
-  name: Evan Wall
-  title: Developer, Student, Artist.
-  twitter_username: evanwallsaintpaul
-  github_username:  evanwoah
-  phone: +1 651 353 0688
+      street: 4 Your Street
+      town: Faketown
+      postcode: NG11 9BC
+      country: United Kingdom
+  email: anybody@gmail.com
+  name: Some Developer
+  title: CSS Ninja and html Rockstar
+  twitter_username: nternetinspired
+  github_username:  nternetinspired
+  phone: +44 000 000 0000
   repository: https://github.com/nternetinspired/jekyll-resume
-  website: evanwall.com
+  website: https://github.com/nternetinspired/jekyll-resume
 description: > # this means to ignore newlines until "baseurl:"
   Powered by Jekyll, and Github Pages ready, Jekyll-cv is a lightweight and lightning-fast
   html résumé making machine from @nternetinspired. Because web developers shouldn't
   showcase their skills on bits of dead tree.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www." # the base hostname & protocol for your site
+baseurl: "/jekyll-resume/" # the subpath of your site, e.g. /blog/
+url: "http://nternetinspired.github.io" # the base hostname & protocol for your site
 
 # Compress html
 compress_html:
